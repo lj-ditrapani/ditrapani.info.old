@@ -1,6 +1,7 @@
 /make_html.py
 /bible_verse.py
 /__pycache__
+*.pyc
 
 # TODO
 /format.txt
