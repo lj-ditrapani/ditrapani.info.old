@@ -16,6 +16,7 @@ A Jesus foundation
 - [Unbelief is Laziness in God's Eyes](lazy.html)
 - [Eating the Bread of Life is Believing](bread.html)
 - [The Grace of the New Covenant in Mark 2](mark2.html)
+- [Justified by Faith](justifiedByFaith.html)
 
 
 Sofi's Blogs
