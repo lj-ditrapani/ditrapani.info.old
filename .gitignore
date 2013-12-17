@@ -2,6 +2,7 @@
 /bible_verse.py
 /__pycache__
 *.pyc
+/bible-posts.zip
 
 # TODO
 /format.txt
