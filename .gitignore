@@ -1,4 +1,5 @@
-/www
+/www/*.html
+/www/arrow.png
 /make_html.py
 /bible_verse.py
 /__pycache__
