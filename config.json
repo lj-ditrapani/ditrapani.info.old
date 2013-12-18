@@ -1,5 +1,5 @@
 {
-    "output_directory": "../www",
+    "output_directory": "www",
     "modules": ["bible_verse"],
     "author": "Lyall Jonathan Di Trapani"
 }
