@@ -7,6 +7,7 @@ A Jesus foundation
 
 - [Foundations of Right Believing](foundations.html)
 - [The Bible is About Jesus](theBibleIsAboutJesus.html)
+- [Justified by Faith not Works](faith_vs_works.html)
 - [Leave the Old Covenant Behind and Come To Jesus](covenants.html)
 - [Understanding the Purpose of the Law](law.html)
 - [Seeing Jesus as your savior](savior.html)
