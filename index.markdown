@@ -18,6 +18,7 @@ A Jesus foundation
 - [Eating the Bread of Life is Believing](bread.html)
 - [The Grace of the New Covenant in Mark 2](mark2.html)
 - [Justified by Faith](justifiedByFaith.html)
+- [Grace in Jeremiah](graceInJeremiah.html)
 - [Deuteronomy 30](deuteronomy30.html)
 
 
