@@ -20,6 +20,14 @@ Did that which is good, then, become death to me? Absolutely not! But sin, so th
 
 Again, in romans, it is revealed that the purpose of the law is to show man his sinfulness.
 
+{"verse": "Galatians 3:19"}
+What then was the purpose of the Law? It was added [later on, after the
+promise, **to disclose and expose to men their guilt**] because of
+transgressions and [**to make men more conscious of the sinfulness] of
+sin**...
+
+And Galatians also agrees that the purpose of the law is to show man his sinfulness.
+
 {"verse": "Romans 5:13"}
 for before the law was given, sin was in the world, but there is no accounting for sin when there is no law.
 
