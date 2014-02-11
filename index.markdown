@@ -40,3 +40,27 @@ Computer Science and Software Engineering
 - Github account: <https://github.com/lj-ditrapani>
 - Software Construction Course: [SWE 430](swe430/index.html)
 - [Production Simulator](sim.html)
+
+
+Learning Clojure
+----------------
+
+- University of Helsinki 
+  [Functional programming with Clojure MOOC](http://mooc.cs.helsinki.fi/clojure)
+  progress on Github: <https://github.com/lj-ditrapani>
+- [4Clojure](http://www.4clojure.com/settings)
+<!--
+make 'learn clojure page'; include books and tutorials
+7 languages in 7 weeks
+Volkmann OCI Tutorial
+OReilly Clojure book
+-->
+
+
+Learning Ruby
+-------------
+
+- rubymonk <https://rubymonk.com/u/jonathan-di-trapani>
+<!-- neo ruby koans http://rubykoans.com/ , ruby koans -->
+
+<!-- python koans, interactive learning? -->
