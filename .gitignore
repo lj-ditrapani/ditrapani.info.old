@@ -6,6 +6,11 @@
 *.pyc
 /bible-posts.zip
 
+# Game of Life
+# (will need to restructure all this when I have more projects)
+game-of-life
+
+
 # TODO
 /format.txt
 /old_and_new_covenants.txt
