@@ -20,18 +20,18 @@ A Jesus foundation
 - [Justified by Faith](justifiedByFaith.html)
 - [Grace in Jeremiah](graceInJeremiah.html)
 - [Deuteronomy 30](deuteronomy30.html)
+- [Hebrews 1](hebrews1.html)
 
 
 Sofi's Blogs
 ------------
 
 - [Women of Victory Blog Posts](WomanOfVictory/)
-- [My Little Conqueror (the first year of our son Vincent)](MyLittleConqueror/)
-- [My Little Conqueror 2 (the second year our son Vincent)](MyLittleConqueror2/)
+- [Grace the Hidden Wisdom](GraceTheHiddenWisdom/)
+- [My Little Conqueror 1 (the first year of our son Vincent)](MyLittleConqueror/)
+- [My Little Conqueror 2 (the second year of our son Vincent)](MyLittleConqueror2/)
+- [My Little Conquerer 3 (the third year of our son Victory)](Conqueror3/)
 - [Web Photo Studio](WebPhotoStudio/)
-<!--
-- [Favor Inmerecido](FavorInmerecido/)
--->
 
 
 Computer Science and Software Engineering
