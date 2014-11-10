@@ -21,6 +21,7 @@ A Jesus foundation
 - [Grace in Jeremiah](graceInJeremiah.html)
 - [Deuteronomy 30](deuteronomy30.html)
 - [Hebrews 1](hebrews1.html)
+- [Hebrews 2](hebrews2.html)
 
 
 Sofi's Blogs
