@@ -67,7 +67,7 @@ The only requirement to be partners with Christ is to have faith.
 
 Have faith and trust in Jesus.  Trust that God loves you and sent His son to die for your sins.  Trust that God loves you and raised Jesus from the dead for your justification.  Today you are already made holy and righteous by the blood of Jesus; this is God's purpose and desire for your life.  It was done freely by His grace.
 
-{"verse": "Hebrews 3:15"}
+{"verse": "Hebrews 3:15-19"}
 15 As Scripture says, "If you hear what God is saying to you today, don't harden your hearts like the time you rebelled against him." 16 Who was it that rebelled against God, even though they heard what he said? Wasn't it all those who were led out of Egypt by Moses? 17 Who was God upset with for forty years? Wasn't it those who sinned, those who were buried in the desert? 18 Who was God speaking of when he vowed they should not enter into his **rest**? Wasn't it those who disobeyed him?  19 So we see that **they were not able to enter because they didn't trust him**.
 
 What was the Israelite's disobedience that angered God?  It was their refusal to trust Him and have faith that He would deliver them.  They rather return to being slaves in Egypt than trust God would provided for them in the desert.  The preferred slavery over son-ship!  They preferred the law over grace.
