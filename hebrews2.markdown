@@ -45,6 +45,11 @@ Jesus came to earth in the flesh so he could earn the right to identify with us 
 {"verse": "Hebrews 2:16-17"}
 16 Of course it's not angels he's concerned about; he's concerned to help the children of Abraham.  17 That's why it was necessary for him to become like his brothers in everything, so that he could become **a merciful and trustworthy high priest** in the things of God, to **forgive his people’s sins**.
 
+Jesus came to save those who have faith in Him.  Because if you are Christ's, then you are a true child of Abraham.
+
+{"verse": "Galatians 3:26 and 29"}
+26 For you are all God's children through your trust in Christ Jesus.  29 If you are Christ's, then you are Abraham's children, and you are heirs of the promise!
+
 Today, Jesus is our great help.
 
 {"verse": "Hebrews 2:18"}
