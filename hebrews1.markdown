@@ -35,6 +35,7 @@ Under the new covenant, angels are servants to those who have faith in Jesus.
 
 {"verse": "Hebrews 1:14"}
 Are not the angels all ministering spirits (servants) sent out in the service [of God for the assistance] of those who are to inherit salvation?
+
 Your job is to believe in Jesus and receive the righteousness that comes by faith.
 
 {"verse": "John 6:28-29"}
