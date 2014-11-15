@@ -22,6 +22,7 @@ A Jesus foundation
 - [Deuteronomy 30](deuteronomy30.html)
 - [Hebrews 1](hebrews1.html)
 - [Hebrews 2](hebrews2.html)
+- [Hebrews 3](hebrews3.html)
 
 
 Sofi's Blogs
