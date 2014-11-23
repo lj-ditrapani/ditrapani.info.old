@@ -23,6 +23,7 @@ A Jesus foundation
 - [Hebrews 1](hebrews1.html)
 - [Hebrews 2](hebrews2.html)
 - [Hebrews 3](hebrews3.html)
+- [Hebrews 4](hebrews4.html)
 
 
 Sofi's Blogs
