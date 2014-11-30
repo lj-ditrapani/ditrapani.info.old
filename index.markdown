@@ -24,6 +24,7 @@ A Jesus foundation
 - [Hebrews 2](hebrews2.html)
 - [Hebrews 3](hebrews3.html)
 - [Hebrews 4](hebrews4.html)
+- [Hebrews 5](hebrews5.html)
 
 
 Sofi's Blogs
