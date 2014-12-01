@@ -61,4 +61,4 @@ What is good in God's eyes?  When we have faith.  Trust and believe in the finis
 {"verse": "Hebrews 5:14"}
 14 Solid food is for grown-ups—those who by always using their brains have learned to tell the difference between good and evil.
 
-God's righteousness is a gift, we can never earn it (Romans 5:12).
+God's righteousness is a gift, we can never earn it (Romans 5:17).
