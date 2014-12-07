@@ -53,6 +53,8 @@ He is addressing the Hebrews who have heard about the gospel---the Good News of 
 
 The amplified bible says "inexperienced and unskilled in the doctrine of righteousness" instead of "don't have the experience of living the right way".  What is the doctrine of righteousness?  What is the right way?  We have been hearing it over and over in every chapter of Hebrews.  It is to live believing in God.  It is to live trusting all of your sins are forgiven.  It is to live knowing Jesus is your high priest.  It is to come confidently before the throne of God because you are certain all of you sins have been forgiven and you are made holy and righteous by what Jesus has done.
 
+Romans 10 makes it clear what is meant by the doctrine of righteousness.  Romans 10:8 (Amplified) says "But what does it say? The Word (God's message in Christ) is near you, on your lips and in your heart; that is, the Word (the message, the basis and object) of faith which we preach," and verse 10 says we are declared righteous by believing.  Reading all of chapter 10 makes the context clear.  The message of God's righteousness is that it is a gift that can only be received by believing and having faith; not earned by works.
+
 {"verse": "Hebrews 5:13"}
 13 Those who drink baby milk don't have the experience of living the right way---they’re just babies.
 
