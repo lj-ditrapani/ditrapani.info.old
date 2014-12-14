@@ -1,6 +1,15 @@
 Hebrews 7
 ========================================================================
 
+This chapter show the greatness of Jesus as our high priest.
+It is a testimony and how guaranteed and secure his priesthood is.
+It also shows the purpose of this priesthood is to bring is close to
+God.
+
+
+Melchizadek is greater than the Levitical priests
+-------------------------------------------------
+
 Melchizadek is a picture of Christ our high priest as we have seen in
 the previous chapters.
 Melchizadek blessed Abraham before Abraham did anything to deserve it.
@@ -80,6 +89,10 @@ receives tithes, has paid tithes through being a descendant of Abraham,
 10 for he was yet to be born from his father when Melchizedek met
 Abraham.
 
+
+Melchizedek is a picture of Jesus Christ
+----------------------------------------
+
 Here we see the first hint of the theme of the next 3 chapters.  The old covenant is gone and the new covenant is here.
 
 {"verse": "Hebrews 7:11-12"}
@@ -100,6 +113,10 @@ similar to Melchizedek,
 the power of a life that cannot be ended.
 17 That's why it says, "You are a priest forever according to the order
 of Melchizedek."
+
+
+Jesus' Priesthood is Forever and Supreme
+----------------------------------------
 
 The law did not make us close to God.  Only grace and mercy through the
 work of Jesus Christ can accomplish that.
