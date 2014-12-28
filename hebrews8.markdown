@@ -1,6 +1,22 @@
 Hebrews 8
 ========================================================================
 
+The main point of the first part of Hebrews is that Jesus is our perfect
+high priest forever.  He is greater than the earthly high priests of the
+old covenant; He serves in the true tabernacle built by the Lord, not
+the earthly tabernacle built by humans.
+
+Jesus is a priest under the covenant of unmerited favor (grace).
+He is always supplying for our needs.  He paid for all our sins.
+He is the sacrifice for the complete remission of sins.
+The old covenant priests were priest of the law.  The law was always
+demanding performance from the people, but they were not able to meet
+the demands of the law.  We would be in the same position as them;
+failing to meet the demands of the law.
+But thank God for Jesus, because Jesus fulfilled the law on our behalf.
+Jesus both saved us and made us righteous.  Today He has given the right
+to everyone who believes to be called children of God.
+
 {"verse": "Hebrews 8:1-3"}
 1 The **main point** of what we're saying is this: We have just such a
 **high priest** who is seated at the right hand of God, who sits in
@@ -70,11 +86,35 @@ up on them, says the Lord.
 But in the new covenant, God does all the work.  This is God's
 definition of the new covenant.
 
+The law that God writes on our hearts under the new covenant is the law
+of faith.  It is the law to stay at rest and let God work on your
+behalf.  It is to be convicted of your righteousness because of Jesus'
+work, not your own works.
+
 {"verse": "Hebrews 8:10"}
 10 "The relationship **I** promise to the house of Israel is this:
 After that time, says the Lord, **I** will place my laws in
 their minds, and write them on their hearts. **I** will be their God,
 and they will be my people.
+
+{"verse": "Galatians 3:12"}
+**Obedience to the law has nothing to do with trusting God**.  Scripture
+only says, "You will live if you observe everything the law requires."
+
+{"verse": "Galatians 3:12 Amplified"}
+12 But **the Law does not rest on faith** [does not require faith,
+**has nothing to do with faith**], for it itself says, He who does them
+[the things prescribed by the Law] shall live by them [not by faith].
+
+{"verse": "Romans 3:27"}
+27 So do we have anything to boast about then? Absolutely not, there's
+no place for that! And why's that? Is it because we follow the law of
+observing requirements? No, we follow the law of trusting in God.
+
+{"verse": "Romans 3:27 Amplified"}
+27 Then what becomes of [our] pride and [our] boasting? It is excluded
+(banished, ruled out entirely). On what principle? [On the principle] of
+**doing good deeds**? No, but on the principle of **faith**.
 
 Everyone who has faith will have a personal, direct relationship with
 the Lord.
