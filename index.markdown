@@ -39,7 +39,7 @@ Sofi's Blogs
 - [Grace the Hidden Wisdom](GraceTheHiddenWisdom/)
 - [My Little Conqueror 1 (the first year of our son Vincent)](MyLittleConqueror/)
 - [My Little Conqueror 2 (the second year of our son Vincent)](MyLittleConqueror2/)
-- [My Little Conquerer 3 (the third year of our son Victory)](Conqueror3/)
+- [My Little Conquerer 3 (the third year of our son Vincent)](Conqueror3/)
 - [Web Photo Studio](WebPhotoStudio/)
 
 
