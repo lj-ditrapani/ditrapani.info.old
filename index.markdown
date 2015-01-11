@@ -29,6 +29,7 @@ A Jesus foundation
 - [Hebrews 7](hebrews7.html)
 - [Hebrews 8](hebrews8.html)
 - [Hebrews 9a](hebrews9a.html)
+- [Hebrews 9b](hebrews9b.html)
 
 
 Sofi's Blogs
