@@ -84,6 +84,7 @@ blood, and **without shedding blood nothing is made ritually free from
 the stain of sin.**
 
 Things sprinkled with blood under the old covenant:
+
 - The book
 - All the people
 - The tabernacle
