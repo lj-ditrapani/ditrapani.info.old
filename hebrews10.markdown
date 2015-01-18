@@ -1,18 +1,98 @@
 Hebrews 10
 ========================================================================
 
-{"verse": "Hebrews 10:1-39"}
-1 The law is just a shadow of the good that was to come, and not the actual reality. So it can never through the repeated sacrifices offered year after year make right those who come to worship God.
-2 Otherwise wouldn't the sacrifices have stopped being offered? If the worshipers had been made clean once and for all, they wouldn't have had guilty consciences any longer.
+This chapter is the pinnacle of Hebrews.
+
+{"verse": "Hebrews 10:1"}
+1 **The law is just a shadow** of the good that was to come, and not the
+actual reality. So it can **never** through the repeated sacrifices
+offered year after year **make right** those who come to worship God.
+
+Again it say the law is just a shadow of the new covenant of the grace
+of Jesus Christ.  Doing the works of the law can never make us right
+with God.  This explicitly ties the sacrifices from the previous chapter
+to the law.
+
+{"verse": "Hebrews 10:2-39"}
+2 Otherwise wouldn't the sacrifices have stopped being offered? If the
+worshipers had been made clean once and for all, they wouldn't have had
+**guilty consciences** any longer.
+
+Notice God's desired end state for use is to be free of a guilty
+conscience.  A guilty conscience is the evidence that one has not been
+made clean.  Under the new covenant we are free of a guilty conscience
+when we have faith in Jesus.
+
+{"verse": "Hebrews 10:3-39"}
 3 But in fact those sacrifices remind people of sins year after year,
+
+Doing the works of the law actually reminds us of our sins.  Here are 3
+other verses that talk about the purpose of the law:
+
+{"verse": "Romans 3:20"}
+For no one is made right before God by doing what the law requires.
+The law only helps us recognize what sin really is.
+
+{"verse": "Galatians 3:19"}
+**What was the point of the law, then? It was added to show what
+wrongdoing really is**, until the son came to whom the promise had been
+made. The law was put in place by angels through the hand of a mediator.
+
+{"verse": "Galatians 3:23-26"}
+23 Before we trusted in Jesus we remained in the custody of the law
+until this way of trusting was revealed.
+24 The law was our guardian until Christ came, so that we could be made
+right by trusting him.
+25 But now this way of trusting Jesus has come, we no longer need such a
+guardian.
+26 For you are all God's children through your trust in Christ Jesus.
+
+{"verse": "Hebrews 10:4"}
 4 because it's impossible for the blood of bulls and goats to remove
 sins.
-5 That's why when Christa came into the world he said, "You didn't want sacrifices or offerings, but you did prepare a body for me.
+
+{"verse": "Hebrews 10:5"}
+5 That's why when Christ came into the world he said, "You didn't want
+sacrifices or offerings, but **you did prepare a body for me**.
+
+His body was meant to be our sin offering.  He offered His own body for
+the forgiveness of our sins.
+
+{"verse": "Hebrews 10:6"}
 6 Burnt offerings and sacrifices for sin gave you no pleasure.'
-7 Then I said, 'God, see I've come to do what you want me to do, just as it says about me in the book.'"
-8 As mentioned above, "You didn't want sacrifices or offerings, and burnt offerings and sacrifices for sin gave you no pleasure," (even though they are offered in accordance with the law's requirements).
-9 Then he said, "See, I've come to do what you want." He gets rid of the first agreement so he can set up the second,
-10 through which we all are made holy through Jesus Christ offering his body once and for all time.
+
+God wasn't interested in the animal sacrifices directly.  He only
+established them as a pointer to the real thing; Jesus Christ.
+
+{"verse": "Hebrews 10:7-39"}
+7 Then I said, 'God, see I've come to do what you want me to do, just as
+it says about me in the book.'"
+
+This is what God really wanted; the work that Jesus did on the cross to
+pay for all our sins and make us right with God.  So that we would
+become God's children and draw near to him as His beloved because we
+have no more fear due from our former guilt.
+
+{"verse": "Hebrews 10:8-9"}
+8 As mentioned above, "You didn't want sacrifices or offerings, and
+burnt offerings and sacrifices for sin gave you no pleasure," (even
+though they are offered in accordance with the law's requirements).
+9 Then he said, "See, I've come to do what you want."
+**He gets rid of the first agreement so he can set up the second,**
+
+The old covenant has been replaced by the new covenant.
+
+{"verse": "Hebrews 10:10"}
+10 through which **we all are made holy through Jesus Christ offering
+his body once and for all time**.
+
+The law was powerless to make any of us perfect and holy.  But Jesus
+made us ALL perfect and holy through His work on the cross!
+He fulfilled the law on our behalf so we no longer live under the law
+but under the grace of Jesus Christ.  Instead of being constantly
+reminded of our sin, we are constantly reminded of our righteousness.
+
+{"verse": "Hebrews 11:39"}
 11 Every priest officiates in the services day after day, again and again offering the same sacrifices that can never remove sins.
 12 But this Priest, after he had offered a single sacrifice for sins that lasts forever, sat down at God's right hand.
 13 Now he waits until all his enemies are conquered, becoming like a footstool for him.
