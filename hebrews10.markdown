@@ -13,7 +13,7 @@ of Jesus Christ.  Doing the works of the law can never make us right
 with God.  This explicitly ties the sacrifices from the previous chapter
 to the law.
 
-{"verse": "Hebrews 10:2-39"}
+{"verse": "Hebrews 10:2"}
 2 Otherwise wouldn't the sacrifices have stopped being offered? If the
 worshipers had been made clean once and for all, they wouldn't have had
 **guilty consciences** any longer.
@@ -23,7 +23,7 @@ conscience.  A guilty conscience is the evidence that one has not been
 made clean.  Under the new covenant we are free of a guilty conscience
 when we have faith in Jesus.
 
-{"verse": "Hebrews 10:3-39"}
+{"verse": "Hebrews 10:3"}
 3 But in fact those sacrifices remind people of sins year after year,
 
 Doing the works of the law actually reminds us of our sins.  Here are 3
@@ -64,7 +64,7 @@ the forgiveness of our sins.
 God wasn't interested in the animal sacrifices directly.  He only
 established them as a pointer to the real thing; Jesus Christ.
 
-{"verse": "Hebrews 10:7-39"}
+{"verse": "Hebrews 10:7"}
 7 Then I said, 'God, see I've come to do what you want me to do, just as
 it says about me in the book.'"
 
@@ -92,7 +92,7 @@ He fulfilled the law on our behalf so we no longer live under the law
 but under the grace of Jesus Christ.  Instead of being constantly
 reminded of our sin, we are constantly reminded of our righteousness.
 
-{"verse": "Hebrews 11:39"}
+{"verse": "Hebrews 10:10-39"}
 11 Every priest officiates in the services day after day, again and again offering the same sacrifices that can never remove sins.
 12 But this Priest, after he had offered a single sacrifice for sins that lasts forever, sat down at God's right hand.
 13 Now he waits until all his enemies are conquered, becoming like a footstool for him.
