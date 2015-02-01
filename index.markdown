@@ -30,7 +30,8 @@ A Jesus foundation
 - [Hebrews 8](hebrews8.html)
 - [Hebrews 9a](hebrews9a.html)
 - [Hebrews 9b](hebrews9b.html)
-- [Hebrews 10](hebrews10.html)
+- [Hebrews 10a](hebrews10a.html)
+- [Hebrews 10b](hebrews10b.html)
 
 
 Sofi's Blogs

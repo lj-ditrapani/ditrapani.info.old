@@ -92,7 +92,7 @@ He fulfilled the law on our behalf so we no longer live under the law
 but under the grace of Jesus Christ.  Instead of being constantly
 reminded of our sin, we are constantly reminded of our righteousness.
 
-{"verse": "Hebrews 10:10-39"}
+{"verse": "Hebrews 10:11-39"}
 11 Every priest officiates in the services day after day, again and again offering the same sacrifices that can never remove sins.
 12 But this Priest, after he had offered a single sacrifice for sins that lasts forever, sat down at God's right hand.
 13 Now he waits until all his enemies are conquered, becoming like a footstool for him.
