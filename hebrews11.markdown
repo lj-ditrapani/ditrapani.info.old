@@ -124,9 +124,9 @@ God.
 15 For if they cared about the country they'd left behind, they could have returned.
 16 But they're looking for a better country instead, a heavenly country. That is why **God isn't disappointed with them**, and is happy to be called their God, for he has built a city for them.
 
-God is pleased with them because the believed God had something in store
-for them that is better what the world has to offer.  They believed what
-they couldn't see was better than what they could see.
+God is pleased with them because they believed God had something in
+store for them that is better what the world has to offer.  They
+believed what they couldn't see was better than what they could see.
 
 {"verse": "Hebrews 17-19"}
 17 Abraham trusted God when he was tested and offered Isaac to God. Abraham, who had accepted God's promises, was still ready to offer to God his only son,
@@ -167,6 +167,7 @@ Look at all the amazing things that **faith** accomplishes!
 35 Women were given their dead family members back through resurrection. Others were tortured, refusing to compromise and be pardoned, because they wanted to be part of a better resurrection.
 36 Yet others suffered insults and whippings; they were put in chains and imprisoned.
 37 Some were stoned, cut in pieces, tempted, killed by the sword. Some dressed in sheepskins and goatskins: destitute, oppressed, and mistreated. 
+
 I'm glad we don't have to go through these things!
 The only requirement for us is to have faith in Jesus!
 
@@ -187,5 +188,6 @@ old testament heroes that pleased God, they did not earn his pleasure by
 doing works of the flesh under the law.  They did not produce
 righteousness by working hard to do right.  They had faith.  And out of
 that faith come righteousness and a right relationship with God.  And
-through the spirit, the good deeds were accomplished.  But they are all
-works of faith, not of the law.
+through the spirit, the good deeds were accomplished.  It was God's
+power that accomplished the works, not man's.  But they are all works of
+faith, not of the law.
